@@ -2,7 +2,7 @@
 title: Publications
 subtitle: We value open, reproducible, and accessible science. Therefore, we post our manuscript as preprints on bioRxiv  and share the code from our projects on github. If you have questions, thoughts, or comments, especially on our code, please get in touch! 
 description:  i
-featured_image: /images/marschmi_site/lakeMI_Laurentian_evening_wide.jpg
+featured_image: /images/marschmi_site/westMI_sunset_crop.JPG
 ---
 
 For an updated list, please check out [Marian's google scholar page](https://scholar.google.com/citations?user=XN44kAIAAAAJ&hl=en). 
