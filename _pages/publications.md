@@ -1,21 +1,11 @@
 ---
 title: Publications
-subtitle: 
+subtitle: We value open, reproducible, and accessible science & share the code from our projects. Please get in touch if you have questions, thoughts, or comments! 
 description:  is the perfect theme for developers, designers and other creatives.
 featured_image: /images/marschmi_site/lakeMI_Laurentian_evening_wide.jpg
 ---
 
 For an updated list, please check out [Marian's google scholar page](https://scholar.google.com/citations?user=XN44kAIAAAAJ&hl=en). 
-
-***
-
-We care deeply about open, reproducible, and accessible science and share the code from our projects when we publish a paper (*see the data availability section*). 
-
-Please be welcome to peruse the code and get in touch with Marian if you have questions, thoughts, or comments! 
-
-***
-
-<sup>=</sup> Contributed equally; <sup>+</sup>Undergraduate advisee
 
 ***
 
@@ -71,3 +61,7 @@ Lefèvre, C.T., Viloria, N., **Schmidt, M.L.,** Pósfai, M., Frankel, R.B., and 
 
 Lefèvre, C.T., Abreu, F., **Schmidt, M.L.,** Lins, U., Frankel, R.B., Hedlund, B.P., and D.A. Bazylinski. (2010) [Moderately thermophilic magnetotactic bacteria from hot springs in Nevada](https://journals.asm.org/doi/10.1128/AEM.03018-09?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed), *Applied and Environmental Microbiology* 76(11): 3740 – 3743; DOI:10.1128/AEM.03018-09.
 
+
+***
+
+<sup>=</sup>Authors Contributed Equally
