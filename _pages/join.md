@@ -2,7 +2,7 @@
 title: Come join us!
 subtitle: We are a new lab and are looking for motivated scholars & collaborators! 
 description:  i
-featured_image: /images/marschmi_site/ZMlakes_Amelia_vandorn.png
+featured_image: /images/marschmi_site/muskegon_jackson.JPG
 ---
 
 
@@ -53,8 +53,8 @@ Students in the Cornell Microbiolgy PhD program are guaranteed 5 years of fundin
 	- Due August until mid-October: <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship Program</a>.  
 	- Due mid-January: <a href="https://www.krellinst.org/csgf/">DOE Computational Science Graduate Fellowship.</a>
 	- Ford Foundation:
-		- Due September to early December: <a href="https://sites.nationalacademies.org/PGA/FordFellowships/PGA_171962">Ford Foundation Predoctoral Fellowship.</a>  
-		- Due September to early December: <a href="https://sites.nationalacademies.org/PGA/FordFellowships/PGA_171939">Ford Foundation Dissertation Fellowship.</a>  
+		- Due September to early December: <a href="https://sites.nationalacademies.org/PGA/FordFellowships/PGA_171962">Predoctoral Fellowship.</a>  
+		- Due September to early December: <a href="https://sites.nationalacademies.org/PGA/FordFellowships/PGA_171939">Dissertation Fellowship.</a>  
 - Cornell opportunities  
 	- <a href="https://gradschool.cornell.edu/financial-support/travel-funding-opportunities/">Research Travel Grant.</a> *Conference grants are reviewed within 30 days of the conference date.*
 	- <a href="https://gradschool.cornell.edu/financial-support/travel-funding-opportunities/">Conference Grant.</a> 

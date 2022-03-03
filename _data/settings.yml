@@ -18,8 +18,6 @@ menu_settings:
       url: '/join'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Contact'
-      url: '/contact'
 
 footer_settings:
   footer_tagline: Researching microbial communities within our planet's precious freshwater ecosystems.
