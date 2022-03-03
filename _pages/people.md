@@ -26,9 +26,6 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 <a href="https://micro.cornell.edu/">Department of Microbiology</a> <br> 
 **Cornell University** <br> 
 
-<br>
-<br>
-
 **Email:** marschmi [at] cornell.edu <br>
 **Pronouns:** they/she <br>
 **Research Interests:** Microbial ecology, evolution, genomics, limnology, bioinformatics<br>
