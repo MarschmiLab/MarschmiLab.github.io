@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Schmidt Lab
-  favicon_image: /images/favicon.png
+  favicon_image: /images/marschmi_site/FaviCon/android-chrome-512x512.png
 
 header_settings:
   logo_image: 
@@ -16,6 +16,8 @@ menu_settings:
       url: '/people'
     - title: 'Join Us'
       url: '/join'
+    - title: 'Values'
+      url: '/values'
     - title: 'Blog'
       url: '/blog/'
 
