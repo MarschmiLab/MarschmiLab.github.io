@@ -70,7 +70,7 @@ Marian is always excited to support and collaborate with new postdoctoral schola
 
 - Federal Opportunities  
 	- Due early December: <a href="https://beta.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb">NSF Directorate for Biological Sciences Postdoc Fellowships</a>. *120 fellowships per year*
-		- *NOTE: Work in our lab is a fantastic candidate for the 2nd funding stream of the NSF Postdoc fellowship: Integrative research investigating the rules of life governing internations between gnomes, environment, and phenotypes! Marian would be thrilled to support a postdoc application through this fellowship*  
+		- *NOTE: Work in our lab is a fantastic candidate for the 2nd funding stream of the NSF Postdoc fellowship: Integrative research investigating the rules of life governing internations between genomes, environment, and phenotypes! Marian would be thrilled to support a postdoc application through this fellowship*  
 	- Due mid-October: <a href="https://beta.nsf.gov/funding/opportunities/ear-postdoctoral-fellowships-ear-pf">NSF Division of Earth Sciences (EAR) Postdoc Fellowship.</a> *10-12 fellowships per year*
 - Cornell Opportunities 
 	- Due mid-ctober: <a href="https://www.atkinson.cornell.edu/grants/postdocs/postdoctoral-fellowships/">Atkinson Postdoctoral Fellowship in Sustainability</a>.  
