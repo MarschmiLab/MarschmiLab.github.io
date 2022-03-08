@@ -283,3 +283,18 @@
 		height: 100%;
 	}
 }
+
+.columns {
+
+        @include mq(tabletl) {
+               display: flex;
+
+            .image-column {
+                        width: 28%;
+                }
+
+                .text-column {
+                     width: 72%;
+             }
+     }
+}
