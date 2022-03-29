@@ -9,7 +9,7 @@ For an updated list, please check out [Marian's google scholar page](https://sch
 
 ***
 
-Urmy, S., Cramer, A., Rogers, T., Sullivan-Stack, J., **Schmidt, M.L.**, Stewart, S., and C. Symons. (2022) [When are bacteria really gazelles? Comparing patchy ecologies with dimensionless numbers](https://www.biorxiv.org/content/10.1101/2021.10.15.464607v2.external-links.html). *In Press at Ecology Letters*  
+Urmy, S., Cramer, A., Rogers, T., Sullivan-Stack, J., **Schmidt, M.L.**, Stewart, S., and C. Symons. (2022) [When are bacteria really gazelles? Comparing patchy ecologies with dimensionless numbers](https://onlinelibrary.wiley.com/doi/10.1111/ele.13987). *Ecology Letters, https://doi.org/10.1111/ele.13987*  
 <br>
 
 Kirchberger, P.C., **Schmidt, M.L.,** and H. Ochman. (2020) [The ingenuity of bacterial genomes](https://www.annualreviews.org/doi/10.1146/annurev-micro-020518-115822?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed).  *Annual Review of Microbiology* 74:815-834.  
