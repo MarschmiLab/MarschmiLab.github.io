@@ -31,13 +31,24 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
            <strong>Links:</strong> <a href="https://scholar.google.com/citations?user=XN44kAIAAAAJ&hl=en">Google Scholar</a>, <a href="https://orcid.org/0000-0002-2866-4496">ORCiD</a>, <a href="https://twitter.com/micro_marian?lang=en">Twitter</a>, <a href="https://github.com/marschmi">Github</a> <br>  
            <br>
            <strong>Research Interests:</strong> Microbial ecology, evolution, genomics, limnology, bioinformatics<br>
-           <strong>Hobbies:</strong> Exploring Ithaca trails via trail running & hiking, baking, staying connected to my community<br>
+           <strong>Hobbies:</strong> Exploring Ithaca trails via trail running & hiking, baking, learning & trying new things<br>
        </p>
  <br> 
     </div>
 </div>
 
 
+***
+
+### Evangeline (Angie) Wang
+
+Microbiology PhD Rotation Student <br>
+Cornell University <br>
+<br>
+**E-mail:** <a href="mailto: ew443@cornell.edu">ew443@cornell.edu</a> <br>
+**Pronouns:** she/her <br>
+**Research Interests:** Microbial ecology, bacteria-phage interaction, host-microbe interaction <br>
+**Hobbies:** Playing with cats, cooking, knitting, watching anime/manga <br>
 
 
 ***
