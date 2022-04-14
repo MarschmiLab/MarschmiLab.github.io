@@ -42,7 +42,8 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 
 ### Evangeline (Angie) Wang
 
-Microbiology PhD Rotation Student <br>
+PhD Rotation Student <br>
+Department of Microbiology <br>
 Cornell University <br>
 <br>
 **E-mail:** <a href="mailto: ew443@cornell.edu">ew443@cornell.edu</a> <br>
