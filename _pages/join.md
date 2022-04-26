@@ -51,7 +51,8 @@ Students in the Cornell Microbiolgy PhD program are guaranteed 5 years of fundin
 
 - Opportunities outside of Cornell:
 	- Due August until mid-October: <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship Program</a>.  
-	- Due mid-January: <a href="https://www.krellinst.org/csgf/">DOE Computational Science Graduate Fellowship.</a>
+	- Due mid-January: <a href="https://www.krellinst.org/csgf/">DOE Computational Science Graduate Fellowship.</a>  
+	- Due March/April: <a href="https://schmidtsciencefellows.org/">Schmidt Science Graduate Fellows.</a> This program funds students during their final year of their PhD and the first year of their postdoc to help students in their pursuit of a postdoctoral position. Each year, Cornell can nominate up to 7 individuals. 
 	- Ford Foundation:
 		- Due September to early December: <a href="https://sites.nationalacademies.org/PGA/FordFellowships/PGA_171962">Predoctoral Fellowship.</a>  
 		- Due September to early December: <a href="https://sites.nationalacademies.org/PGA/FordFellowships/PGA_171939">Dissertation Fellowship.</a>  
@@ -76,7 +77,8 @@ Marian is always excited to support and collaborate with new postdoctoral schola
 	- Due mid-ctober: <a href="https://www.atkinson.cornell.edu/grants/postdocs/postdoctoral-fellowships/">Atkinson Postdoctoral Fellowship in Sustainability</a>.  
 	- Due December 1st: <a href="https://cihmid.cornell.edu/?programs=cihmid-postdoctoral-fellows-program">CIHMID Postdoctoral Fellowship</a>.
 - Private Foundations  
-	- Due October 1st: <a href="https://lsrf.org/apply/">Life Sciences Research Foundation</a>. 
+	- *See Schmidt Science Fellowship that is a bridge between graduate school & postdoc.*
 	- Due Mid May: <a href="https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/">Simons Foundation in Marine Microbial Ecology</a>. 
 		- *NOTE: Marian's postdoc work was funded by this fellowship and she welcomes anyone seeking this fellowship to get in touch with her!*
-	- Due September-early December: <a href="https://sites.nationalacademies.org/PGA/FordFellowships/PGA_171940"> Ford Foundation Postdoctoral Fellowship.</a> 
+	- Due September-early December: <a href="https://sites.nationalacademies.org/PGA/FordFellowships/PGA_171940"> Ford Foundation Postdoctoral Fellowship.</a>  
+	- Due October 1st: <a href="https://lsrf.org/apply/">Life Sciences Research Foundation</a>. 
