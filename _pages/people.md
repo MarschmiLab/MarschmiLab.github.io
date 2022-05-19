@@ -38,18 +38,6 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 </div>
 
 
-***
-
-### Evangeline (Angie) Wang
-
-PhD Rotation Student <br>
-Department of Microbiology <br>
-Cornell University <br>
-<br>
-**E-mail:** <a href="mailto: ew443@cornell.edu">ew443@cornell.edu</a> <br>
-**Pronouns:** she/her <br>
-**Research Interests:** Microbial ecology, bacteria-phage interaction, host-microbe interaction <br>
-**Hobbies:** Playing with cats, cooking, knitting, watching anime/manga <br>
 
 
 ***
@@ -68,3 +56,11 @@ Cornell University <br>
     </div>
 </div>
 
+
+***
+
+
+## Lab Alumni 
+
+
+Evangeline (Angie) Wang, Microbiology Rotation PhD Student, Spring 2022: *Current Student in Dan Buckley's Lab*
