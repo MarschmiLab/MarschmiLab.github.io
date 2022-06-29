@@ -22,13 +22,14 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
     </div>
     <div class="text-column">
         <h3>Dr. Marian L. Schmidt</h3>
-           <p>Assistant Professor <br>
+           <p>PhD in Ecology & Evolution, University of Michigan<br>
+           Assistant Professor <br>
            <a href="https://micro.cornell.edu/">Department of Microbiology</a><br>
            Cornell University<br>
            <strong>E-mail:</strong> <a href="mailto: marschmi@cornell.edu">marschmi@cornell.edu</a> <br>
            <strong>Links:</strong> <a href="https://scholar.google.com/citations?user=XN44kAIAAAAJ&hl=en">Google Scholar</a>, <a href="https://orcid.org/0000-0002-2866-4496">ORCiD</a>, <a href="https://twitter.com/micro_marian?lang=en">Twitter</a>, <a href="https://github.com/marschmi">Github</a> <br>  
            <br>
-           Marian <em>(they/them)</em> grew up on Lake St. Clair, the lake that connects Lake Huron to Lake Erie, where they developed a curiosity of aquatic ecosystems and the Great Lakes. After attending Hampshire college, where they surprisingly designed a "major" in environmental microbiology, they fell in love with the world's tiniest organisms: bacteria. Marian's research interests are in microbial ecology, evolution, genomics, limnology and bioinformatics. In their spare time, they like to run far on the "gorges" trails of Ithaca, eat delicious local produce, bake sweet treats (especially granola), and spend time with the Lab dog, Walli.<br>
+           Marian <em>(they/them)</em> grew up on Lake St. Clair, the lake that connects Lake Huron to Lake Erie, where they developed a curiosity of aquatic ecosystems and the Great Lakes. After attending Hampshire college, where they surprisingly designed a "major" in environmental microbiology, they fell in love with the world's tiniest organisms: bacteria. Marian's research interests are in microbial ecology, evolution, genomics, limnology and bioinformatics. In their spare time, they like to run far on the "gorges" trails of Ithaca, bake sweet treats (especially granola), and spend time with the Lab dog, Walli. Marian once swam from Asia to Europe across the Bosphorus above thousands of jellyfish!<br>
            <br>
        </p>
  <br> 
