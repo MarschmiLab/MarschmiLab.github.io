@@ -18,7 +18,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 
 <div class="columns">
     <div class="image-column">
-        <img src="/images/marschmi_site/people/marian/marian_small.png">
+        <img src="/images/marschmi_site/people/marian/2023_Mar_headshot.jpeg">
     </div>
     <div class="text-column">
         <h3>Dr. Marian L. Schmidt</h3>
