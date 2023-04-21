@@ -39,6 +39,30 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 ***
 
 
+
+<div class="columns">
+    <div class="image-column">
+        <img src="/images/marschmi_site/people/2023_evie_brahmstedt.jpg">
+    </div>
+    <div class="text-column">
+        <h3>Dr. Evie S. Brahmstedt</h3>
+           <p>PhD in Environmental Science & Engineering, Clarkson University<br>
+           Postdoctoral Affiliate, Cornell University<br>
+           New York State Water Resources Institute <br>     
+           <strong>E-mail:</strong> <a href="mailto: esb279@cornell.edu">esb279@cornell.edu</a> <br>
+           <strong>Links:</strong> <a href="https://scholar.google.com/citations?user=-fmYeXgAAAAJ&hl=en&oi=ao">Google Scholar</a>, <a href="https://orcid.org/0000-0001-9263-2248">ORCiD</a>, <a href="https://twitter.com/ESBrahmstedt">Twitter</a>, <a href="https://github.com/EvieSawyer">Github</a> <br>
+           <br>
+           Evie <em>(she/her)</em> is a Postdoctoral Associate at the New York State Water Resources Institute working in collaboration with the Schmidt Aquatic Microbiology Lab. She grew up on the Vermont side of Lake Champlain, where she first became interested in freshwater ecosystems. After attending St. Lawrence University for her B.S and then Clarkson University for her M.S. and PhD studying mercury mobilization along the Upper St. Lawrence River, she developed a fascination with much larger lakes, the Great Lakes. Evie considers herself a contaminant ecologist, with research interests in contaminants (esp. mercury), the Great Lakes, wetlands, limnology, and microbial ecology. In her free time, Evie likes to run, read, bake, and explore outdoors
+           <br>
+       </p>
+ <br> 
+    </div>
+</div>
+
+
+
+
+
 ***
 
 <div class="columns">
