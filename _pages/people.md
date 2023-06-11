@@ -1,6 +1,6 @@
 ---
 title: People
-subtitle: Our lab was just established in January 2022! 
+subtitle: Our lab was established in January 2022! 
 description:  i
 featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 ---
@@ -48,7 +48,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
         <h3>Dr. Evie S. Brahmstedt</h3>
            <p>PhD in Environmental Science & Engineering, Clarkson University<br>
            Postdoctoral Affiliate, Cornell University<br>
-           New York State Water Resources Institute <br>     
+           <a href="https://cals.cornell.edu/water-resources-institute">New York State Water Resources Institute</a><br>     
            <strong>E-mail:</strong> <a href="mailto: esb279@cornell.edu">esb279@cornell.edu</a> <br>
            <strong>Links:</strong> <a href="https://scholar.google.com/citations?user=-fmYeXgAAAAJ&hl=en&oi=ao">Google Scholar</a>, <a href="https://orcid.org/0000-0001-9263-2248">ORCiD</a>, <a href="https://twitter.com/ESBrahmstedt">Twitter</a>, <a href="https://github.com/EvieSawyer">Github</a> <br>
            <br>
@@ -67,7 +67,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
     </div>
     <div class="text-column">
         <h3>Evelyn Martinez</h3>
-           <p>Cornell NSF Microbial Friends & Foes REU Summer Researcher<br>
+           <p><a href="https://cihmid.cornell.edu/academics-programs/undergraduate-programs/mff-reu/">Cornell NSF Microbial Friends & Foes REU Summer Researcher</a><br>
            <strong>E-mail:</strong> <a href="mailto: evelyn.martinez@spartans.ut.edu">evelyn.martinez@spartans.ut.edu</a> <br>
            <strong>Links:</strong> <a href="https://www.linkedin.com/in/evelynamartinez">LinkedIn</a> <br>
            <br>
@@ -88,7 +88,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
     </div>
     <div class="text-column">
         <h3>Joseph S. Nocua</h3>
-           <p>Cornell Undergraduate Researcher<br>
+           <p><a href="https://experience.cornell.edu/opportunities/mcnair-scholars-program">Cornell McNair Undergraduate Research Scholar</a><br>
            <strong>E-mail:</strong> <a href="mailto: jsn74@cornell.edu">jsn74@cornell.edu</a> <br>
            <strong>Links:</strong> <a href="https://www.linkedin.com/in/joseph-s-nocua-tole-ba2b1218a">LinkedIn</a> <br>
            <br>
@@ -108,7 +108,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
     </div>
     <div class="text-column">
         <h3>Augustus Pendleton</h3>
-           <p>Cornell Microbiology PhD Student<br>
+           <p><a href="https://cals.cornell.edu/microbiology/academics/graduate">Cornell Microbiology PhD Student</a><br>
            <strong>E-mail:</strong> <a href="mailto: arp277@cornell.edu">arp277@cornell.edu</a> <br>
            <strong>Links:</strong> <a href="https://gus-pendleton.github.io/">Personal Website</a> and <a href="https://twitter.com/AugustusPendle1?lang=en">Twitter</a> <br>  
            <br>
