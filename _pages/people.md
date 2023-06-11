@@ -59,8 +59,25 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
     </div>
 </div>
 
+***
 
-
+<div class="columns">
+    <div class="image-column">
+        <img src="/images/marschmi_site/people/2023_evelyn_martinez.jpg">
+    </div>
+    <div class="text-column">
+        <h3>Evelyn Martinez</h3>
+           <p>Cornell NSF Microbial Friends & Foes REU Summer Researcher<br>
+           <strong>E-mail:</strong> <a href="mailto: evelyn.martinez@spartans.ut.edu">evelyn.martinez@spartans.ut.edu</a> <br>
+           <strong>Links:</strong> <a href="https://www.linkedin.com/in/evelynamartinez">LinkedIn</a> <br>
+           <br>
+           Evelyn <em>(she/her)</em> is a Microbial Friends and Foes REU student in the lab during the summer of 2023. She is a rising senior at the University of Tampa pursuing a bachelors degree in Biology (Molecular Biology concentration). Her research interests include aquatic microbiology, virology, and microbial pathogenesis. Evelyn's fascination with aquatic microbiology stems from her trips to Ecuador (where her family is from) and seeing the many lakes found in the Andes mountains. At her home institution, Evelyn is conducting research in identifying uncharacterized bacteria from recreational water sites in Tampa Bay. This summer, she will help with field work in the lab and analyze how oysters impact marine sediment microbial communities. Her goal once completing her undergraduate degree is to obtain a PhD in microbiology. Evelyn enjoys spending time with her family and playing with her Shih-Poo Teddy. <em>Fun fact: Evelyn's birthday is the same day as DNA day.</em>
+<br>
+           <br>
+       </p>
+ <br> 
+    </div>
+</div>
 
 
 ***
@@ -87,15 +104,15 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 
 <div class="columns">
     <div class="image-column">
-        <img src="/images/marschmi_site/people/2023_jiawei_azalea_yang.jpg">
+        <img src="/images/marschmi_site/people/2023_gus_pendleton.jpeg">
     </div>
     <div class="text-column">
-        <h3>Jiawei (Azalea) Yang</h3>
-           <p>Cornell Microbiology PhD Rotation Student, February - May 2023<br>
-           <strong>E-mail:</strong> <a href="mailto: jy642@cornell.edu">jy642@cornell.edu</a> <br>
-           <strong>Links:</strong> <a href="https://github.com/jwy6669">GitHub</a> and <a href="https://www.linkedin.com/in/jiawei-azalea-yang-826b30244/">LinkedIn</a> <br>  
+        <h3>Augustus Pendleton</h3>
+           <p>Cornell Microbiology PhD Student<br>
+           <strong>E-mail:</strong> <a href="mailto: arp277@cornell.edu">arp277@cornell.edu</a> <br>
+           <strong>Links:</strong> <a href="https://gus-pendleton.github.io/">Personal Website</a> and <a href="https://twitter.com/AugustusPendle1?lang=en">Twitter</a> <br>  
            <br>
-           Azalea <em>(she/her)</em> is a first-year graduate student studying Microbiology. She is currently working on mining metagenomic data for phages and mobile genetic elements.
+           Gus <em>(he/him)</em> is a first-year graduate student studying microbiology. He was raised in Wisconsin and received his degree in microbiology from the University of Minnesota, Twin Cities. He then received a master’s in geography from the University of Galway. He has worked in diverse research projects including bacterial physiology, seaweed policy, and pathogenic gene regulation. In grad school, Gus plans to expand his skills as a bioinformatician while studying interactions within complex microbial communities. In his free time, Gus enjoys baking pies, Nordic skiing, and doing pretty much anything that’s outside.
 <br>
            <br>
        </p>
@@ -125,130 +142,13 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 ***
 
 
-## Lab Alumni 
-
-***
-
-<div class="columns">
-    <div class="image-column">
-        <img src="/images/marschmi_site/people/2022_julia_meyer.png">
-    </div>
-    <div class="text-column">
-        <h3>Julia Meyer</h3>
-           <p>Lab Technican, August 2022 - February 2023<br>
-           <strong>E-mail:</strong> <a href="mailto: jjm455@cornell.edu">jjm455@cornell.edu</a> <br>
-           <strong>Links:</strong> <a href="https://github.com/JuliaMeyer">Github</a><br>  
-           <br>
-           Julia <em>(she/her/hers)</em> is a recent Cornell graduate from Buffalo, New York. She earned her bachelor’s degree in Astronomy in May 2022, with a focus on planetary science. She has a broad interest in microbiology and is enthusiastic about applying that to her astronomy background through a focus on astrobiology. She is currently working on a collaborative project evaluating the impact of floating solar panels on aquatic microbiota at the Cornell experimental ponds and contributing to establishing the lab. In her spare time she enjoys playing rugby, knitting/crocheting, and attempting to keep her houseplants alive. 
-<br>
-           <br>
-       </p>
- <br> 
-    </div>
-</div>
-
-***
-
-
-<div class="columns">
-    <div class="image-column">
-        <img src="/images/marschmi_site/people/2023_gus_pendleton.jpeg">
-    </div>
-    <div class="text-column">
-        <h3>Augustus Pendleton</h3>
-           <p>Cornell Microbiology PhD Rotation Student, November 2022 - February 2023<br>
-           <strong>E-mail:</strong> <a href="mailto: arp277@cornell.edu">arp277@cornell.edu</a> <br>
-           <strong>Links:</strong> <a href="https://gus-pendleton.github.io/">Personal Website</a> and <a href="https://twitter.com/AugustusPendle1?lang=en">Twitter</a> <br>  
-           <br>
-           Gus <em>(he/him)</em> is a first-year graduate student studying microbiology. He was raised in Wisconsin and received his degree in microbiology from the University of Minnesota, Twin Cities. He then received a master’s in geography from the University of Galway. He has worked in diverse research projects including bacterial physiology, seaweed policy, and pathogenic gene regulation. In grad school, Gus plans to expand his skills as a bioinformatician while studying interactions within complex microbial communities. In his free time, Gus enjoys baking pies, Nordic skiing, and doing pretty much anything that’s outside.
-<br>
-           <br>
-       </p>
- <br> 
-    </div>
-</div>
-
-
-***
-
-<div class="columns">
-    <div class="image-column">
-        <img src="/images/marschmi_site/people/2022_brandon_reyes-chavez.png">
-    </div>
-    <div class="text-column">
-        <h3>Brandon Reyes-Chavez</h3>
-           <p>Cornell Microbiology PhD Rotation Student, August - November 2022<br>
-           <strong>E-mail:</strong> <a href="mailto: br387@cornell.edu">br387@cornell.edu</a> <br>
-           <br>
-           Brandon <em>(he/him)</em> is a first-year graduate student studying Microbiology. He is a California local and graduated from the University of California, Davis in Microbiology. He worked in a developmental biology lab for three years, studying <em>Hydra vulgaris</em> to understand the fundamentals of nervous system development. His interest in Microbiology emerged from the impacts that microbes had on his research (contaminated Hydra plates) and the world around him (pandemics). He aims to study the microbial world around us in hopes of finding ways to use their biological potential to solve real-world issues. He aims to start a lab of his own to mentor aspiring scientists and lead his curiosity. He likes to play tennis and brew kombucha in his free time.
-<br>
-           <br>
-       </p>
- <br> 
-    </div>
-</div>
-
-
-***
-
-<div class="columns">
-    <div class="image-column">
-        <img src="/images/marschmi_site/people/2022_gabriela_acevedo.png">
-    </div>
-    <div class="text-column">
-        <h3>Gabriela Acevedo Oquendo</h3>
-           <p>Undergraduate Researcher, Summer 2022<br> 
-           <a href="https://cihmid.cornell.edu/academics-programs/undergraduate-programs/mff-reu-microbial-friends-foes-research-experience-for-undergraduates-non-cu-students/">NSF Microbial Friends & Foes Summer REU</a><br>
-           <strong>E-mail:</strong> <a href="mailto: gra37@cornell.edu">gra37@cornell.edu</a> <br>
-           <strong>Links:</strong> <a href="https://github.com/gacevedo7">Github</a>, <a href="https://www.instagram.com/hikarigaby/">Instagram</a><br>  
-           <br>
-           Gabriela <em>(she/her/ella)</em> was born and raised in Puerto Rico. As a latina in STEM, she is a rising senior pursuing a Bachelor’s Degree in Microbiology in the University of Puerto Rico, Humacao Campus. Gabriela holds a great interest in bacterial interactions, pathogenic bacteria, and microbial community assembly. In the lab, Gabriela is working on how oyster farming influences marine sediment bacterial communities and their biogeochemistry. Her dream is to venture into the medical field, hoping to become a neonatologist or a medical microbiologist! In her spare time, Gabriela enjoys cooking for her friends and family. A Gaby fun fact: her favorite animal is a manatee!<br>
-           <br>
-       </p>
- <br> 
-    </div>
-</div>
-
-***
-
-<div class="columns">
-    <div class="image-column">
-        <img src="/images/marschmi_site/people/2022_mike_bai.jpg">
-    </div>
-    <div class="text-column">
-        <h3>Michael Bai</h3>
-           <p>Cornell Undergraduate Researcher, Summer 2022<br>
-           <strong>E-mail:</strong> <a href="mailto: myb7@cornell.edu">myb7@cornell.edu</a> <br>
-           <strong>Links:</strong> <a href="https://github.com/mike-bai">Github</a><br>  
-           <br>
-           Michael <em>(he/him)</em> is a rising junior in Biometry & Statistics from the outskirts of Philadelphia. His research interests are broad and include bioinformatics, microbiology, genomics, oncology, epidemiology, and anatomy. Behind all these interests is his aspiration for a career in bioinformatics. In the lab, Michael is using his coding skills to search for mobile genetic elements in freshwater bacterial communities. Outside of work, Michael likes going on long runs throughout Ithaca, dabbling in drink recipes, and playing the saxophone for the Big Red Marching Band. He is a huge fan of reality TV cooking shows such as <em>Kitchen Nightmares</em> and <em>Diners, Drive-ins, and Dives.</em><br>
-           <br>
-       </p>
- <br> 
-    </div>
-</div>
-
-***
-
-<div class="columns">
-    <div class="image-column">
-        <img src="/images/marschmi_site/people/2022_sam_katz.jpg">
-    </div>
-    <div class="text-column">
-        <h3>Sam Katz</h3>
-           <p>Cornell Undergraduate Researcher, Summer 2022<br>
-           <strong>E-mail:</strong> <a href="mailto: sjk252@cornell.edu">sjk252@cornell.edu</a> <br>
-           <strong>Links:</strong> <a href="https://github.com/katzsj">Github</a><br>  
-           <br>
-           Sam <em>(he/him)</em> is from Highlands Ranch Colorado, where he spends a lot of his time hiking, fly-fishing, and just enjoying the great outdoors. As a rising senior at Cornell University, he studies Biological Engineering with a focus in Cellular and Molecular Biology. Sam’s research interests focus on synthetic biology and genetic engineering and he hopes to work as a Bioprocess Engineer after completing his Master’s in 2024. In the lab, Sam is working on isolating and cultivating bacteria that live in association with particles in freshwater ecosystems.<br>
-           <br>
-       </p>
- <br> 
-    </div>
-</div>
-
-***
-
-
-<h3>Evangeline (Angie) Wang</h3> 
-Microbiology Rotation PhD Student, Spring 2022: *Current PhD Student in Dan Buckley's Lab*
+<h3>Lab Alumni</h3>  
+<ul>
+  <li><strong>Jiawei (Azalea) Yang</strong>, February - May 2023: <em>Current PhD Student in Ilana Brito's Lab</em></li>
+  <li><strong>Julia Meyer</strong>, Lab Tech August 2022 - February 2023</li>
+  <li><strong>Brandon Reyes-Chavez</strong>, August - November 2022: <em>Current PhD Student in Lori Huberman's Lab</em></li>
+  <li><strong>Gabriela Acevedo Oquendo</strong>,  <a href="https://cihmid.cornell.edu/academics-programs/undergraduate-programs/mff-reu/">Summer 2022 MFF REU Student</a></li>
+  <li><strong>Michael Bai</strong>, Summer 2022</li>
+  <li><strong>Sam Katz</strong>, Summer 2022</li>
+  <li><strong>Evangeline (Angie) Wang</strong>, Spring 2022: <em>Current PhD Student in Dan Buckley's Lab</em></li>
+</ul>
