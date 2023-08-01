@@ -125,6 +125,28 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 
 <div class="columns">
     <div class="image-column">
+        <img src="/images/favicon.png">
+    </div>
+    <div class="text-column">
+        <h3>Sophia Richter</h3>
+           <p><a href="https://cals.cornell.edu/microbiology/academics/graduate">Laboratory Technician</a><br>
+           <strong>E-mail:</strong> <a href="mailto: sophia.richter@cornell.edu">sophia.richter@cornell.edu</a> <br>
+           <strong>Links:</strong> <a href="https://www.linkedin.com/in/sophia-richter7/">LinkedIn</a> <br>  
+           <br>
+           Sophia <em>(she/her)</em> is the laboratory technician for the Schmidt Aquatic Microbiology Lab. Growing up in Montana, her love for hiking and cross-country skiing translated into a passion for studying and conserving the natural world. She received her undergraduate degree in Ecology and Evolutionary Biology at Princeton University, where she completed her senior thesis on factors influencing open habitat vegetation in Yellowstone National Park. She became interested in aquatic ecosystems while working at the Flathead Lake Biological Station, and is interested in studying evolution and microbial interactions. During her free time, she enjoys reading, live music, the great outdoors, and spending time with her friends! 
+<br>
+           <br>
+       </p>
+ <br> 
+    </div>
+</div>
+
+
+
+***
+
+<div class="columns">
+    <div class="image-column">
         <img src="/images/marschmi_site/people/walnut/walnut_small.png">
     </div>
     <div class="text-column">
