@@ -129,7 +129,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
     </div>
     <div class="text-column">
         <h3>Sophia Richter</h3>
-           <p><a href="https://cals.cornell.edu/microbiology/academics/graduate">Laboratory Technician</a><br>
+           <p>Laboratory Technician<br>
            <strong>E-mail:</strong> <a href="mailto: sophia.richter@cornell.edu">sophia.richter@cornell.edu</a> <br>
            <strong>Links:</strong> <a href="https://www.linkedin.com/in/sophia-richter7/">LinkedIn</a> <br>  
            <br>
