@@ -125,7 +125,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 
 <div class="columns">
     <div class="image-column">
-        <img src="/images/2023_sophia_richter.jpg">
+        <img src="/images/marschmi_site/people/2023_sophia_richter.jpg">
     </div>
     <div class="text-column">
         <h3>Sophia Richter</h3>
