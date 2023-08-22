@@ -39,6 +39,27 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 ***
 
 
+<div class="columns">
+    <div class="image-column">
+        <img src="/images/favicon.png">
+    </div>
+    <div class="text-column">
+        <h3>Sophia Aredas</h3>
+           <p>Rotation PhD Student, August - November 2023<br>
+           <strong>E-mail:</strong> <a href="mailto: sna49@cornell.edu">sna49@cornell.edu</a> <br>
+           <strong>Links:</strong> <a href="https://twitter.com/sophiaaredas/">Twitter</a> <br>  
+           <br>
+           Sophia <em>(she/her)</em> is a first year rotation student in the Cornell Microbiology PhD program. She was born and raised in the San Fernando Valley/Los Angeles County in California. Sophia received two undergraduate degrees in Public Health Sciences and Public Health Policy from UC Irvine in 2023. Her research interests include microbial diversity, evolution, and interactions. In Sophia's free time she loves to bake new recipes, go on hikes, and sleep. Fun fact: Sophia's birthday is on 9/9/1999.
+<br>
+           <br>
+       </p>
+ <br> 
+    </div>
+</div>
+
+
+***
+
 
 <div class="columns">
     <div class="image-column">
