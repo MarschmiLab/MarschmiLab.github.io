@@ -167,7 +167,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 
 <h3>Lab Alumni</h3>  
 <ul>
-  <li><strong>Evelyn Martinez</strong>, Summer 2023 MFF REU Student</a></li>
+  <li><strong>Evelyn Martinez</strong>, <a href="https://cihmid.cornell.edu/academics-programs/undergraduate-programs/mff-reu/">Summer 2023 MFF REU Student</a></li>
   <li><strong>Jiawei (Azalea) Yang</strong>, Rotation PhD Student Spring 2023: <em>Current PhD Student in Ilana Brito's Lab</em></li>
   <li><strong>Julia Meyer</strong>, Lab Tech August 2022 - February 2023</li>
   <li><strong>Brandon Reyes-Chavez</strong>, Rotation PhD Student Fall 2022: <em>Current PhD Student in Lori Huberman's Lab</em></li>
