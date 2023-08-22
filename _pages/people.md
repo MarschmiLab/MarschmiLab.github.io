@@ -41,7 +41,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 
 <div class="columns">
     <div class="image-column">
-        <img src="/images/favicon.png">
+        <img src="/images/marschmi_site/people/2023_sophia_aredas.jpg">
     </div>
     <div class="text-column">
         <h3>Sophia Aredas</h3>
