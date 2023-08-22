@@ -45,7 +45,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
     </div>
     <div class="text-column">
         <h3>Sophia Aredas</h3>
-           <p>Rotation PhD Student, August - November 2023<br>
+           <p>1st Year Rotation PhD Student, August - November 2023<br>
            <strong>E-mail:</strong> <a href="mailto: sna49@cornell.edu">sna49@cornell.edu</a> <br>
            <strong>Links:</strong> <a href="https://twitter.com/sophiaaredas/">Twitter</a> <br>  
            <br>
@@ -74,26 +74,6 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
            <strong>Links:</strong> <a href="https://scholar.google.com/citations?user=-fmYeXgAAAAJ&hl=en&oi=ao">Google Scholar</a>, <a href="https://orcid.org/0000-0001-9263-2248">ORCiD</a>, <a href="https://twitter.com/ESBrahmstedt">Twitter</a>, <a href="https://github.com/EvieSawyer">Github</a> <br>
            <br>
            Evie <em>(she/her)</em> is a Postdoctoral Associate at the New York State Water Resources Institute working in collaboration with the Schmidt Aquatic Microbiology Lab. She grew up on the Vermont side of Lake Champlain, where she first became interested in freshwater ecosystems. After attending St. Lawrence University for her B.S and then Clarkson University for her M.S. and PhD studying mercury mobilization along the Upper St. Lawrence River, she developed a fascination with much larger lakes, the Great Lakes. Evie considers herself a contaminant ecologist, with research interests in contaminants (esp. mercury), the Great Lakes, wetlands, limnology, and microbial ecology. In her free time, Evie likes to run, read, bake, and explore outdoors
-           <br>
-       </p>
- <br> 
-    </div>
-</div>
-
-***
-
-<div class="columns">
-    <div class="image-column">
-        <img src="/images/marschmi_site/people/2023_evelyn_martinez.jpg">
-    </div>
-    <div class="text-column">
-        <h3>Evelyn Martinez</h3>
-           <p><a href="https://cihmid.cornell.edu/academics-programs/undergraduate-programs/mff-reu/">Cornell NSF Microbial Friends & Foes REU Summer Researcher</a><br>
-           <strong>E-mail:</strong> <a href="mailto: evelyn.martinez@spartans.ut.edu">evelyn.martinez@spartans.ut.edu</a> <br>
-           <strong>Links:</strong> <a href="https://www.linkedin.com/in/evelynamartinez">LinkedIn</a> <br>
-           <br>
-           Evelyn <em>(she/her)</em> is a Microbial Friends and Foes REU student in the lab during the summer of 2023. She is a rising senior at the University of Tampa pursuing a bachelors degree in Biology (Molecular Biology concentration). Her research interests include aquatic microbiology, virology, and microbial pathogenesis. Evelyn's fascination with aquatic microbiology stems from her trips to Ecuador (where her family is from) and seeing the many lakes found in the Andes mountains. At her home institution, Evelyn is conducting research in identifying uncharacterized bacteria from recreational water sites in Tampa Bay. This summer, she will help with field work in the lab and analyze how oysters impact marine sediment microbial communities. Her goal once completing her undergraduate degree is to obtain a PhD in microbiology. Evelyn enjoys spending time with her family and playing with her Shih-Poo Teddy. <em>Fun fact: Evelyn's birthday is the same day as DNA day.</em>
-<br>
            <br>
        </p>
  <br> 
@@ -187,6 +167,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 
 <h3>Lab Alumni</h3>  
 <ul>
+  <li><strong>Evelyn Martinez</strong>, Summer 2023 MFF REU Student</a><li>
   <li><strong>Jiawei (Azalea) Yang</strong>, Rotation PhD Student Spring 2023: <em>Current PhD Student in Ilana Brito's Lab</em></li>
   <li><strong>Julia Meyer</strong>, Lab Tech August 2022 - February 2023</li>
   <li><strong>Brandon Reyes-Chavez</strong>, Rotation PhD Student Fall 2022: <em>Current PhD Student in Lori Huberman's Lab</em></li>
