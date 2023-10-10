@@ -35,9 +35,9 @@ Our lab participates in the National Science Foundation (NSF) funded <a href="ht
 
 <h4 style="color:#8E0703;">Cornell Graduate Students</h4>
 
-Our lab is accepting rotation students through the <a href="https://micro.cornell.edu/academics/graduate">Cornell Microbiology PhD Program.</a>  
+Our lab is accepting rotation students through the <a href="https://micro.cornell.edu/academics/graduate">Cornell Microbiology PhD Program website.</a> Currently, the PhD program includes three 12-week rotations at the beginning of the program in the first academic year of the typical 5-6 year program. Please learn more about the rotation and PhD program by taking a look at the <a href="https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A3bebf60f-c7f7-44b5-85c6-4a1352987bab&viewer%21megaVerb=group-discover">Cornell Microbiology Graduate Student Handbook.</a> This means that students in the program need to rotate with <a href="https://cals.cornell.edu/microbiology/academics/graduate/graduate-field-faculty">three professors in the field of microbiology* (* who are accepting students).</a> The rotations do not need to be figured out before starting the program. However, it is helpful to know of a couple faculty who are accepting students that align with an applicant's interests before applying.
 
-If you're in another program, please do not hesitate to reach out! Marian can serve on PhD committees across campus. 
+If you're in another program on or off Cornell's campus, please do not hesitate to reach out! Mar can serve on PhD committees across or off campus. 
 
 
 #### Prospective PhD Students
@@ -59,7 +59,10 @@ Students in the Cornell Microbiolgy PhD program are guaranteed 5 years of fundin
 		- Due September to early December: <a href="https://sites.nationalacademies.org/PGA/FordFellowships/PGA_171939">Dissertation Fellowship.</a>  
 - Cornell opportunities  
 	- <a href="https://gradschool.cornell.edu/financial-support/travel-funding-opportunities/">Research Travel Grant.</a> *Conference grants are reviewed within 30 days of the conference date.*
-	- <a href="https://gradschool.cornell.edu/financial-support/travel-funding-opportunities/">Conference Grant.</a> 
+	- <a href="https://gradschool.cornell.edu/financial-support/travel-funding-opportunities/">Conference Grant.</a>
+	- Cornell Atkinson Center for Sustainability Opportunities:  
+		- Due early November: <a href="https://atkinson.cornell.edu/cornell-atkinson-graduate-research-grants-2024-rfp/">Graduate Research Grant.</a>  
+		- Due early November: <a href="https://www.atkinson.cornell.edu/cornell-atkinson-sustainable-biodiversity-fund-2024-rfp/">Sustainable Biodiversity Fund.</a>
 
 
 ***
@@ -75,7 +78,7 @@ Marian is always excited to support and collaborate with new postdoctoral schola
 		- *NOTE: Work in our lab is a fantastic candidate for the 2nd funding stream of the NSF Postdoc fellowship: Integrative research investigating the rules of life governing internations between genomes, environment, and phenotypes! Marian would be thrilled to support a postdoc application through this fellowship*  
 	- Due mid-October: <a href="https://beta.nsf.gov/funding/opportunities/ear-postdoctoral-fellowships-ear-pf">NSF Division of Earth Sciences (EAR) Postdoc Fellowship.</a> *10-12 fellowships per year*
 - Cornell Opportunities 
-	- Due mid-ctober: <a href="https://www.atkinson.cornell.edu/grants/postdocs/postdoctoral-fellowships/">Atkinson Postdoctoral Fellowship in Sustainability</a>.  
+	- Due mid-October: <a href="https://www.atkinson.cornell.edu/grants/postdocs/postdoctoral-fellowships/">Atkinson Postdoctoral Fellowship in Sustainability</a>.  
 	- Due December 1st: <a href="https://cihmid.cornell.edu/?programs=cihmid-postdoctoral-fellows-program">CIHMID Postdoctoral Fellowship</a>.
 - Private Foundations  
 	- *See Schmidt Science Fellowship that is a bridge between graduate school & postdoc.*
