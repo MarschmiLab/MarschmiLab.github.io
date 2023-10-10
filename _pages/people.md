@@ -21,7 +21,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
         <img src="/images/marschmi_site/people/marian/2023_Mar_headshot.jpeg">
     </div>
     <div class="text-column">
-        <h3>Dr. Marian L. Schmidt</h3>
+        <h3>Dr. Marian (Mar) L. Schmidt</h3>
            <p>PhD in Ecology & Evolution, University of Michigan<br>
            Assistant Professor <br>
            <a href="https://micro.cornell.edu/">Department of Microbiology</a><br>
