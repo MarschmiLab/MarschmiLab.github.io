@@ -37,27 +37,6 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
     </div>
 </div>
 
-***
-
-
-<div class="columns">
-    <div class="image-column">
-        <img src="/images/marschmi_site/people/2023_sophia_aredas.jpg">
-    </div>
-    <div class="text-column">
-        <h3>Sophia Aredas</h3>
-           <p>1st Year Rotation PhD Student, August - November 2023<br>
-           <strong>E-mail:</strong> <a href="mailto: sna49@cornell.edu">sna49@cornell.edu</a> <br>
-           <strong>Links:</strong> <a href="https://twitter.com/sophiaaredas/">Twitter</a> <br>  
-           <br>
-           Sophia <em>(she/her)</em> is a first year rotation student in the Cornell Microbiology PhD program. She was born and raised in the San Fernando Valley/Los Angeles County in California. Sophia received two undergraduate degrees in Public Health Sciences and Public Health Policy from UC Irvine in 2023. Her research interests include microbial diversity, evolution, and interactions. In Sophia's free time she loves to bake new recipes, go on hikes, and sleep. Fun fact: Sophia's birthday is on 9/9/1999.
-<br>
-           <br>
-       </p>
- <br> 
-    </div>
-</div>
-
 
 ***
 
@@ -144,6 +123,24 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 </div>
 
 
+***
+
+<div class="columns">
+    <div class="image-column">
+        <img src="/images/marschmi_site/people/2024_havi_rojer.jpg">
+    </div>
+    <div class="text-column">
+        <h3>Zahava "Havi" Rojer</h3>
+           <p>1st Year Rotation PhD Student, February - April 2024<br>
+           <strong>E-mail:</strong> <a href="mailto: zlr6@cornell.edu">zlr6@cornell.edu</a> <br>
+           <br>
+           Havi <em>(they/them)</em> did their undergraduate work in the <a href="https://toryhendry.weebly.com/">Hendry Lab</a> in Cornell Microbiology and is now a first year PhD student in the department. They are interested in microbial symbioses and syntrophies. They love teaching and making organized spreadsheets. Outside of research, they enjoy baking, writing, and going to wanders with their dog.
+<br>
+           <br>
+       </p>
+ <br> 
+    </div>
+</div>
 
 ***
 
@@ -168,6 +165,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 
 <h3>Lab Alumni</h3>  
 <ul>
+  <li><strong>Sophia Aredas</strong>, Rotation PhD Student Fall 2023</li>
   <li><strong>Evelyn Martinez</strong>, <a href="https://cihmid.cornell.edu/academics-programs/undergraduate-programs/mff-reu/">Summer 2023 MFF REU Student</a></li>
   <li><strong>Jiawei (Azalea) Yang</strong>, Rotation PhD Student Spring 2023: <em>Current PhD Student in Ilana Brito's Lab</em></li>
   <li><strong>Julia Meyer</strong>, Lab Tech August 2022 - February 2023</li>
