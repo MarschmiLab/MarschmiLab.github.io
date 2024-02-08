@@ -130,7 +130,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
         <img src="/images/marschmi_site/people/2024_havi_rojer.jpg">
     </div>
     <div class="text-column">
-        <h3>Zahava "Havi" Rojer</h3>
+        <h3>Zahavah "Havi" Rojer</h3>
            <p>1st Year Rotation PhD Student, February - April 2024<br>
            <strong>E-mail:</strong> <a href="mailto: zlr6@cornell.edu">zlr6@cornell.edu</a> <br>
            <br>
