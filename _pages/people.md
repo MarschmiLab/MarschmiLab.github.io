@@ -90,7 +90,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
            <p>Cornell Undergraduate Researcher<br>
            <strong>E-mail:</strong> <a href="mailto: sg2388@cornell.edu">sg2388@cornell.edu</a> <br>
            <br>
-           Sophia <em>(she/her)</em> is a cellular and molecular biology and statistics major in the College of Agriculture and Life Sciences (CALS). One day, she hopes to get a PhD in quantitative genomics or cellular biology and explore the interface of wet lab and bioinformatics researcher. Sophia skis, hikes and is part of the cornell speech and debate team. <em>Fun fact: Sophia has elbows and six fingers that are double jointed.</em>.
+           Sophia <em>(she/her)</em> is originally from Denver, Colorado. She is a cellular and molecular biology and statistics major in the College of Agriculture and Life Sciences (CALS). One day, she hopes to get a PhD in quantitative genomics or cellular biology and explore the interface of wet lab and bioinformatics researcher. Sophia skis, hikes and is part of the cornell speech and debate team. <em>Fun fact: Sophia has elbows and six fingers that are double jointed.</em>.
 <br>
            <br>
        </p>
