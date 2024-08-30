@@ -5,7 +5,7 @@ description:  i
 featured_image: /images/marschmi_site/westMI_sunset_crop.JPG
 ---
 
-For an updated list, please check out [Marian's google scholar page](https://scholar.google.com/citations?user=XN44kAIAAAAJ&hl=en). 
+For an updated list, please check out [Marian's google scholar page](https://scholar.google.com/citations?user=MDNM_HYAAAAJ&hl=en). 
 
 ***
 
