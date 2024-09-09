@@ -30,7 +30,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
            <strong>Links:</strong> <a href="https://scholar.google.com/citations?user=MDNM_HYAAAAJ&hl=en">Google Scholar</a>, <a href="https://orcid.org/0000-0002-2866-4496">ORCiD</a>, <a href="https://twitter.com/micro_marian?lang=en">Twitter</a>, <a href="https://github.com/marschmi">Github</a> <br>  
            <br>
            <strong>Teaching:</strong> BIOMI6300: Computational Approaches for Microbial Systems, taught in the Spring Semesters <br>
-           Marian or Mar <em>(they/them)</em> grew up on Lake St. Clair, the lake that connects Lake Huron to Lake Erie, where they developed a curiosity of aquatic ecosystems from ponds to the Great Lakes. After attending Hampshire college, where they surprisingly designed a "major" in environmental microbiology, they fell in love with the world's tiniest organisms: bacteria. Marian's research interests are in microbial community ecology, evolution, genomics, limnology and bioinformatics with a special focus on how microhabitats structure the ecology of freshwater microbes. They identify as queer, non-binary, and polyamorous. In their spare time, they like to run far on the "gorges" trails of Ithaca, bake sweet treats (especially granola), and spend time with the Lab dog, Walli. Fun fact: Marian once swam from Asia to Europe across the Bosphorus above thousands of jellyfish and their mom!<br>
+           Mar <em>(they/them)</em> grew up on Lake St. Clair, the lake that connects Lake Huron to Lake Erie, where they developed a curiosity of aquatic ecosystems from ponds to the Great Lakes. After attending Hampshire college, where they surprisingly designed a "major" in environmental microbiology, they fell in love with the world's tiniest organisms: bacteria. Mar's research interests are in microbial community ecology, evolution, genomics, limnology and bioinformatics with a special focus on how microhabitats structure the ecology of freshwater microbes. They identify as queer, non-binary, neurodivergent, and polyamorous. In their spare time, they like to run far on the "gorges" trails of Ithaca, bake sweet treats (especially granola and birthday cookies/cakes), and spend time with their dog, Walnut. <em>Fun fact: Mar once swam from Asia to Europe across the Bosphorus above thousands of jellyfish and their mom!</em><br>
            <br>
        </p>
  <br> 
@@ -97,8 +97,6 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
  <br> 
     </div>
 </div>
-
-
 
 
 ***
