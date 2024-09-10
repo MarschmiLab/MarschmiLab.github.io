@@ -3,7 +3,7 @@ title: 'New Schmidt Lab Instagram Account!'
 date: 2024-05-12 00:00:00
 subtitle: 
 description: Check out recent lab happenings on our new lab instagram account, maintained by PhD Student, Sophia Aredas!
-featured_image: '/images/marschmi_site/blog/202405_lab_party.jpg'
+featured_image: '/images/marschmi_site/blog/202405_lab_party2.jpg'
 ---
 
 
