@@ -7,7 +7,16 @@ featured_image: '/images/marschmi_site/blog/202405_lab_party2.jpg'
 ---
 
 
-![](/images/marschmi_site/blog/IG.png)
+![]()
+
+
+<div class="gallery" data-columns="3">
+	<img src="/images/marschmi_site/blog/IG.png">
+	<img src="/images/marschmi_site/research_projects/202305_GusRosette.jpeg">
+	<img src="/images/marschmi_site/blog/IMG_0548.jpeg">
+	<img src="/images/marschmi_site/research_projects/202405_LakeGuardian.jpeg">
+</div>
+
 
 Amazing PhD student in the lab, Sophia Aredas, has created and is maintaining our lab instagram page. Thank you, Sophia!
 
