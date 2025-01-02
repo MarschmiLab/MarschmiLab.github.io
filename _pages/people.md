@@ -30,7 +30,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
            <strong>Links:</strong> <a href="https://scholar.google.com/citations?user=MDNM_HYAAAAJ&hl=en">Google Scholar</a>, <a href="https://orcid.org/0000-0002-2866-4496">ORCiD</a>, <a href="https://twitter.com/micro_marian?lang=en">Twitter</a>, <a href="https://github.com/marschmi">Github</a> <br>  
            <br>
            <strong>Teaching:</strong> BIOMI6300: Computational Approaches for Microbial Systems, taught in the Spring Semesters <br>
-           Mar <em>(they/them)</em> grew up on Lake St. Clair, the lake that connects Lake Huron to Lake Erie, where they developed a curiosity of aquatic ecosystems from ponds to the Great Lakes. After attending Hampshire college, where they surprisingly designed a "major" in environmental microbiology, they fell in love with the world's tiniest organisms: bacteria. Mar's research interests are in microbial community ecology, evolution, genomics, limnology and bioinformatics with a special focus on how microhabitats structure the ecology of freshwater microbes. They identify as queer, non-binary, neurodivergent, and polyamorous. In their spare time, they like to run far on the "gorges" trails of Ithaca, bake sweet treats (especially granola and birthday cookies/cakes), and spend time with their dog, Walnut. <em>Fun fact: Mar once swam from Asia to Europe across the Bosphorus above thousands of jellyfish and their mom!</em><br>
+           Mar <em>(they/them)</em> grew up on Lake St. Clair, the lake that connects Lake Huron to Lake Erie, where they developed a curiosity of aquatic ecosystems. After attending Hampshire college, where they unexpectedly designed a "major" in environmental microbiology, they fell in love with the world's tiniest organisms: bacteria. Mar's research interests are in microbial community ecology, evolution, genomics, limnology and bioinformatics with a special focus on how climate change is modifying the ecology and evolution of freshwater microbes. Mar identifies as queer, non-binary, neurodivergent, and polyamorous and values authenticity in the lab. In their spare time, Mar often runs far on the "gorges" trails of Ithaca, bakes sweet treats (especially granola and birthday cookies/cakes), and spends time with their dog, Walnut. <em>Fun fact: Mar once swam from Asia to Europe across the Bosphorus above thousands of jellyfish and their mom!</em><br>
            <br>
        </p>
  <br> 
@@ -59,25 +59,6 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
     </div>
 </div>
 
-***
-
-<div class="columns">
-    <div class="image-column">
-        <img src="/images/marschmi_site/people/2024_kailyn_hanke.jpg">
-    </div>
-    <div class="text-column">
-        <h3>Kailyn Hanke</h3>
-           <p>1st Year Rotation PhD Student, August - November 2024<br>
-           <strong>E-mail:</strong> <a href="mailto: kah357@cornell.edu">kah357@cornell.edu</a> <br>
-           <br>
-           Kailyn <em>(she/her)</em> is a first year PhD student originally from Manitoba, Canada. She completed her undergraduate work at Dalhousie University as a member of the Rohde Lab and the Sterling Hydrology and Climate Change Research Group. She is broadly interested in environmental microbiology and bacterial genetics. In her spare time Kailyn likes to hike, listen to live music, and write postcards to her friends and family.
-<br>
-           <br>
-       </p>
- <br> 
-    </div>
-</div>
-
 
 ***
 
@@ -90,7 +71,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
            <p>Cornell Undergraduate Researcher<br>
            <strong>E-mail:</strong> <a href="mailto: sg2388@cornell.edu">sg2388@cornell.edu</a> <br>
            <br>
-           Sophia <em>(she/her)</em> is originally from Denver, Colorado. She is a cellular and molecular biology and statistics major in the College of Agriculture and Life Sciences (CALS). One day, she hopes to get a PhD in quantitative genomics or cellular biology and explore the interface of wet lab and bioinformatics researcher. Sophia skis, hikes and is part of the cornell speech and debate team. <em>Fun fact: Sophia has elbows and six fingers that are double jointed.</em>.
+           Sophia <em>(she/her)</em> is originally from Denver, Colorado. She is a cellular and molecular biology and statistics major in the College of Agriculture and Life Sciences (CALS). Sophia is working on a project funded by the New York State Water Resources Institute on how various nearshore enviornments in Lake Ontario impact microbial community composition and their ability to methylate mercury. One day, she hopes to get a PhD in quantitative genomics or cellular biology and explore the interface of wet lab and bioinformatics researcher. Sophia skis, hikes and is part of the cornell speech and debate team. <em>Fun fact: Sophia has elbows and six fingers that are double jointed.</em>.
 <br>
            <br>
        </p>
@@ -98,6 +79,25 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
     </div>
 </div>
 
+
+***
+
+<div class="columns">
+    <div class="image-column">
+        <img src="/images/marschmi_site/people/2024_kelly_miller.jpg">
+    </div>
+    <div class="text-column">
+        <h3>Kelly Miller</h3>
+           <p>High School Researcher, New Visions Program<br>
+           <strong>E-mail:</strong> <a href="mailto: klm366@cornell.edu">klm366@cornell.edu</a> <br>
+           <br>
+           Kelly <em>(she/her)</em> is a high school senior taking part in our lab as an intern through the <a href="https://www.tstboces.org/page/new-visions-life-sciences-applied-scientific-research">Tompkins Seneca Tioga (TST) BOCES New Visions program</a>. Kelly's research interests lie in how aquatic microbial communities impact larger ecosystem dynamics, especially in the context of our planet's changing environments. She is evaluating the impacts of oyster farming on marine sediment microbial communities and their ability to perform denitrification. In her free time, Kelly enjoys spending time with friends and family, running, getting out on the lake, playing guitar, and catching Fall Creek Brass Band performances.
+<br>
+           <br>
+       </p>
+ <br> 
+    </div>
+</div>
 
 ***
 
@@ -147,6 +147,7 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 
 <h4>Rotation PhD Students</h4>  
 <ul>
+<li><strong>Kailyn Hanke</strong>, Fall 2024: <em>Current rotation student</em></li>
 <li><strong>Zahavah "Havi" Rojer</strong>, Spring 2024: <em>Current PhD Student in Dr. Tory Hendry's Lab</em></li>
 <li><strong>Jiawei (Azalea) Yang</strong>, Spring 2023: <em>Current PhD Student in Dr. Ilana Brito's Lab</em></li>
 <li><strong>Brandon Reyes-Chavez</strong>, Fall 2022: <em>Current PhD Student in Dr. Lori Huberman's Lab</em></li>
