@@ -3,7 +3,7 @@ title: '2025 Software Carpentries Workshop'
 date: 2025-01-14 00:00:00
 subtitle: 
 description: The Schmidt Lab hosted a two-day coding workshop!
-featured_image: '/images/marschmi_site/blo/20250114-CarpentriesWorkshop/Sophia_Teaching.jpg'
+featured_image: '/images/marschmi_site/blog/20250114-CarpentriesWorkshop/Sophia_Teaching.jpg'
 ---
 
 ## What are the Software Carpentries?
@@ -23,10 +23,10 @@ The first morning, Sophia Aredas (Schmidt Lab) introduced learners to R/RStudio,
 Learners used data from Lake Ontario which was prepared by the US EPA and the Schmidt Lab, as well as publicly available data from the [Great Lakes Acoustic Telemtry Observation System (GLATOS)](https://seagull.glos.org/data-console-datasets/3290c009a7ba4595b6ebef2df6ae4a07). The goal of this dataset is to explore how environmental variables affect the abundance of bacterial taxa across the lake. [You can read more on this dataset from our recent preprint.](https://www.biorxiv.org/content/10.1101/2025.01.17.633667v1). Below, you can see some of the fabulous graphs our learners produced during the workshop!
 
 <div class="gallery" data-columns="2">
-	<img src="/images/marschmi_site/blog/20250114-CarpentriesWorkshop/Example_plot1.jpg">
-	<img src="/images/marschmi_site/blog/20250114-CarpentriesWorkshop/Example_plot2.jpg">
-	<img src="/images/marschmi_site/blog/20250114-CarpentriesWorkshop/Example_plot3.jpg">
-	<img src="/images/marschmi_site/blog/20250114-CarpentriesWorkshop/Example_plot4.jpg">
+	<img src="/images/marschmi_site/blog/20250114-CarpentriesWorkshop/Example_plot1.png">
+	<img src="/images/marschmi_site/blog/20250114-CarpentriesWorkshop/Example_plot2.png">
+	<img src="/images/marschmi_site/blog/20250114-CarpentriesWorkshop/Example_plot3.png">
+	<img src="/images/marschmi_site/blog/20250114-CarpentriesWorkshop/Example_plot4.png">
 </div>
 
 After we took a break, Cassidy Prince (Feaga Lab) taught learners to organize their files and directories using the Unix shell. Using those skills, Cassidy then taught the class how to use Git for version control, and how to link a local R project with a remote repository on Github. To cap off this challenging lesson, learners collaborated with each other using a shared repo on Github! 
@@ -47,7 +47,7 @@ Gus (Schmidt Lab) started off the next day with a lesson on `dplyr` and `tidyr` 
 Finally that afternoon, learners were introduced to `RMarkdown`, allowing them to integrate their code, figures, statistics, and interpretation in a polished report. Lots of free work time allowed learners to explore their own questions in the dataset, and generate personalized reports. 
 
 <div class="gallery" data-columns="1">
-	<img src="/images/marschmi_site/blog/20250114-CarpentriesWorkshop/RMarkdown_Example.jpg">
+	<img src="/images/marschmi_site/blog/20250114-CarpentriesWorkshop/RMarkdown_Example.png">
 </div>
 
 ## How do you teach coding?
@@ -58,10 +58,8 @@ We use **sticky notes** to check in on learners. After each line or section of c
 
 The success of the workshop absolutely relies on the hard work and expertise of helpers. These helpers beta-tested our new curriculum, kept coding notes for learners to reference, and troubleshot errors on the fly. We were incredibly lucky to have such amazing helpers, including Alicia McElwee (Buckley Lab), Calla Bush St. George (Angert Lab), Ana Fernandez Galliano (Doerr Lab), Talyia Griffin (Gallagher Lab), Havi Rojer (Tory Hendry), Kailyn Hanke (First-year rotation student), and Kelly Miller (Schmidt Lab). 
 
-<div class="gallery" data-columns="3">
-	<img src="/images/marschmi_site/blog/20250114-CarpentriesWorkshop/helpers1.jpg">
+<div class="gallery" data-columns="1">
 	<img src="/images/marschmi_site/blog/20250114-CarpentriesWorkshop/helpers2.jpg">
-	<img src="/images/marschmi_site/blog/20250114-CarpentriesWorkshop/helpers3.jpg">
 </div>
 
 Post-survey feedback reflected the essential role of helpers:
