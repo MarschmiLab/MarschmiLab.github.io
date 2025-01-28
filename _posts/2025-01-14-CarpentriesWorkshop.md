@@ -8,9 +8,11 @@ featured_image: '/images/marschmi_site/blo/20250114-CarpentriesWorkshop/Sophia_T
 
 ## What are the Software Carpentries?
 
-The Carpentries are an international non-profit whose goal is to make coding inclusive and accessible. Their lessons are freely available and based on open-source coding languages. What makes Carpentries workshops unique is their focus on learner-centered pedagogy. Using evidence based tools like a color-coded sticky note system, live coding, and an instructor-helper-learner set-up, Carpentries workshops are interactive and supportive. Mar and Gus are both certified Carpentries Instructors, and our lab hosts a coding workshop each year using the Carpentries approach and a [custom curriculum we developed](https://marschmilab.github.io/Cornell_Carpentries_Jan2025/).
+[The Carpentries](https://carpentries.org/) are an international non-profit whose goal is to make coding inclusive and accessible. Their lessons are freely available and based on open-source coding languages, which people from all over the world have contributed to and taught from. What makes Carpentries workshops unique is their focus on learner-centered pedagogy. Using evidence-based tools like a color-coded sticky note system, live coding, and an instructor-helper-learner set-up. Carpentries workshops are interactive and supportive. Mar and Gus are both certified Carpentries Instructors, and our lab hosts a coding workshop each year using the Carpentries approach and a [custom curriculum we developed](https://marschmilab.github.io/Cornell_Carpentries_Jan2025/).
 
-## What materials did you cover?
+## What materials did we cover?
+
+### Day 1: Intro to R, shell, and git/GitHub
 
 The first morning, Sophia Aredas (Schmidt Lab) introduced learners to R/RStudio, taught them to read data into R from files, and create beautiful plots with `ggplot2`. 
 
@@ -33,6 +35,8 @@ After we took a break, Cassidy Prince (Feaga Lab) taught learners to organize th
 	<img src="/images/marschmi_site/blog/20250114-CarpentriesWorkshop/Cassidy_Teaching.jpeg">
 </div>
 
+### Day 2: More R and Dynamic Documents with RMarkdown
+
 Gus (Schmidt Lab) started off the next day with a lesson on `dplyr` and `tidyr` functions which help organize, clean, and analyze data frames. Learners can now `select` specific columns, `filter` rows using logical operators, make new columns with `mutate`, summarize data quickly with `group_by` and `summarize`, reshape data with `pivot_` functions, and use `_join` functions to combine data tables!
 
 <div class="gallery" data-columns="2">
@@ -48,9 +52,9 @@ Finally that afternoon, learners were introduced to `RMarkdown`, allowing them t
 
 ## How do you teach coding?
 
-Our workshop was two whole days of active coding! Learners would arrive around 8:30 and grab some coffee and a bagel. This also gave them time to set up their computers, check in with instructors, and ask questions. Then we start teaching! There's always one instructor up at the front of the class room. They are typing and explaining code on their computer while the learners follow along on their own computers. 
+Our workshop was two whole days of active coding! Learners would arrive around 8:30 am and grab some coffee and a bagel. This also gave them time to set up their computers, check in with instructors, and ask questions. Then we start teaching! There's always one instructor up at the front of the class room. They are typing and explaining code on their computer while the learners follow along on their own computers. 
 
-We use **sticky notes** to check in on learners. After each line or section of code, the instructor will ask learners to put a blue sticky note up if the code worked, and a pink sticky note if it didn't. Whenever a pink sticky note pops up, one of our team of helpers (we had ~8) swoop in and quickly help the learner get back on track while the instructor continues with the lesson. This way, lessons aren't interrupted for troubleshooting, but no learner gets left behind either!
+We use **sticky notes** to check in on learners. After each line or section of code, the instructor will ask learners to put a blue sticky note up if the code worked, and a pink sticky note if it didn't. Whenever a pink sticky note pops up, one of our team of helpers (we had ~8 incredible helpers!) swoop in and quickly help the learner get back on track while the instructor continues with the lesson. This way, lessons aren't interrupted for troubleshooting, but no learner gets left behind either!
 
 The success of the workshop absolutely relies on the hard work and expertise of helpers. These helpers beta-tested our new curriculum, kept coding notes for learners to reference, and troubleshot errors on the fly. We were incredibly lucky to have such amazing helpers, including Alicia McElwee (Buckley Lab), Calla Bush St. George (Angert Lab), Ana Fernandez Galliano (Doerr Lab), Talyia Griffin (Gallagher Lab), Havi Rojer (Tory Hendry), Kailyn Hanke (First-year rotation student), and Kelly Miller (Schmidt Lab). 
 
