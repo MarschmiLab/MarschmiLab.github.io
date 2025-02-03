@@ -58,10 +58,6 @@ We use **sticky notes** to check in on learners. After each line or section of c
 
 The success of the workshop absolutely relies on the hard work and expertise of helpers. These helpers beta-tested our new curriculum, kept coding notes for learners to reference, and troubleshot errors on the fly. We were incredibly lucky to have such amazing helpers, including Alicia McElwee (Buckley Lab), Calla Bush St. George (Angert Lab), Ana Fernandez Galliano (Doerr Lab), Talyia Griffin (Gallagher Lab), Havi Rojer (Tory Hendry), Kailyn Hanke (First-year rotation student), and Kelly Miller (Schmidt Lab). 
 
-<div class="gallery" data-columns="1">
-	<img src="/images/marschmi_site/blog/20250114-CarpentriesWorkshop/helpers2.jpg">
-</div>
-
 Post-survey feedback reflected the essential role of helpers:
 
 - "If I get any problem during the practice, I can have ppl to help me immediately!"
