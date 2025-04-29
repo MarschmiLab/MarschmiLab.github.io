@@ -8,7 +8,7 @@ featured_image: '/images/marschmi_site/blog/20250429-MicrobeMapper/Microbe_Mappe
 
 ## [MicrobeMapper](https://augustus-pendleton.shinyapps.io/MicrobeMapper/): Interact with our Lake Ontario data
 
-Our lab synthesizes a wide variety of data, including environmental data like water quality and weather conditions, microbiological data from DNA sequencing and flow cytometry, and genetic predictions from bioinformatic pipelines. We’ll typically spend months working with these data, crafting them into a story that can be shared as a journal article or conference presentation. 
+Our lab synthesizes a wide variety of data, including environmental data like water quality and weather conditions, microbiological data from DNA sequencing and flow cytometry, and genetic predictions from bioinformatic pipelines. We’ll typically spend months working with these data, crafting them into a story that can be shared as a journal article or conference presentation. For example, you can read our most recent [preprint on Lake Ontario's microbes!](https://www.biorxiv.org/content/10.1101/2025.01.17.633667v1)
 
 However, these classic academic outputs have their downsides: they can take a long time to publish, they may be behind paywalls, and they are often written for a specialized audience. What’s more, a single dataset often contains many more “stories” than can be shared in a single article, and other researchers, depending on their expertise and experience, will formulate hypotheses that would not even occur to us.
 
