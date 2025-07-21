@@ -5,9 +5,25 @@ description:  i
 featured_image: /images/marschmi_site/westMI_sunset_crop.JPG
 ---
 
-For an updated list, please check out [Marian's google scholar page](https://scholar.google.com/citations?user=MDNM_HYAAAAJ&hl=en). 
+For an updated list, please check out [Mar's google scholar page](https://scholar.google.com/citations?user=MDNM_HYAAAAJ&hl=en). 
 
 ***
+
+
+**Pendleton, A.R.** and **M.L. Schmidt**. [Interpreting UniFrac with Absolute Abundance: A Conceptual and Practical Guide](https://doi.org/10.1101/2025.07.18.665540). *bioRxiv*: https://doi.org/10.1101/2025.07.18.665540. 
+
+<div style="text-align:center"> 
+	<a href="https://github.com/MarschmiLab/Pendleton_2025_Absolute_Unifrac_Paper" class="button button--small">Code for Pendleton & Schmidt, bioRxiv</a>
+</div>
+<br>
+
+**Pendleton, A.,** Wells., M., and **M.L. Schmidt**. [Upwelling periodically disturbs the ecological assembly of microbial communities in the Laurentian Great Lakes](https://doi.org/10.1101/2025.01.17.633667). *bioRxiv*: https://doi.org/10.1101/2025.01.17.633667.
+
+<div style="text-align:center"> 
+	<a href="https://github.com/MarschmiLab/Pendleton_2025_Ontario_Publication_Repo" class="button button--small">Code for Pendleton et al., bioRxiv</a>
+</div>
+<br>
+
 
 Urmy, S., Cramer, A., Rogers, T., Sullivan-Stack, J., **Schmidt, M.L.**, Stewart, S., and C. Symons. (2022) [When are bacteria really gazelles? Comparing patchy ecologies with dimensionless numbers](https://onlinelibrary.wiley.com/doi/10.1111/ele.13987). *Ecology Letters, https://doi.org/10.1111/ele.13987*  
 <br>
