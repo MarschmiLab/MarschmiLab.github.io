@@ -64,6 +64,27 @@ featured_image: /images/marschmi_site/lakeMI_Laurentian_clouds_wide.jpg
 
 <div class="columns">
     <div class="image-column">
+        <img src="/images/marschmi_site/people/2025_eric_armstrong.jpeg">
+    </div>
+    <div class="text-column">
+        <h3>Eric J. Armstrong</h3>
+           <p><a href="https://cihmid.cornell.edu/academics-programs/postdoctoral-fellows-program/">Cornell Institute of Host-Microbe Interactions and Disease (CIHMID) Postdoctoral Scholar</a><br>
+           <strong>E-mail:</strong> <a href="mailto: eja98@cornell.edu">eja98@cornell.edu</a> <br>
+           <br>
+           Eric <em>(he/him)</em> began his academic career at Michigan State University, earning a B.S. in Biochemistry and Molecular Biology while studying mechanisms of photoprotection in photosymbiotic giant clams. He completed his Ph.D. in Integrative Biology at the University of California, Berkeley, under the mentorship of Drs. Jonathon H. Stillman and Mary E. Power. His doctoral research revealed how animal hosts use proton transporters to regulate photosynthetic productivity in their microalgal symbionts. In February 2025, he joined the Schmidt and Sinclair Labs at Cornell University as a CIHMID Postdoc. His current research explores how persistent environmental stressors alter host–microbe interactions, with a focus on how marine pollutants affect pathogen accumulation and energy metabolism in oysters. He is particularly interested in how shellfish microbiomes are shaped by their local environments.
+<br>
+           <br>
+       </p>
+ <br> 
+    </div>
+</div>
+
+
+
+***
+
+<div class="columns">
+    <div class="image-column">
         <img src="/images/marschmi_site/people/2024_sophia_gerrans.jpg">
     </div>
     <div class="text-column">
