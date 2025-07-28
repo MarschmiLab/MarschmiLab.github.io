@@ -2,7 +2,7 @@
 title: 'Kelly's 2024-2025 High School Research Experience in the Schmidt Lab'
 date: 2025-06-17 00:00:00
 subtitle: 
-description: Read about Kelly Miller's high school research experience in the lab through the New Visions Life Sciences program, run through a collaboration with Cornell University and local Tompkins-Seneca-Tioga Boards of Cooperative Education Services (TST BOCES).
+description: Read about Kelly Miller's high school research experience in the lab through the New Visions Life Sciences program.
 featured_image: '/images/marschmi_site/blog/20250617-KellyResearchPost/lab-pic.jpeg'
 ---
 
