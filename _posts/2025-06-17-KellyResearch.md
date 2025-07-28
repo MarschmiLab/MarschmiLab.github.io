@@ -1,9 +1,9 @@
 ---
-title: 'Kelly's 2024-2025 High School Research Experience in the Schmidt'
+title: 'Kelly's 2024-2025 High School Research Experience in the Schmidt Lab'
 date: 2025-06-17 00:00:00
 subtitle: 
-description: Read about Kelly Miller's high school research experience in the lab through the New Visions Life Sciences program, which is run through a collaboration with Cornell University and local  Tompkins-Seneca-Tioga Boards of Cooperative Education Services (TST BOCES)
-featured_image: '/images/marschmi_site/blog/20250114-CarpentriesWorkshop/Sophia_Teaching.jpg'
+description: Read about Kelly Miller's high school research experience in the lab through the New Visions Life Sciences program, run through a collaboration with Cornell University and local Tompkins-Seneca-Tioga Boards of Cooperative Education Services (TST BOCES).
+featured_image: '/images/marschmi_site/blog/20250617-KellyResearchPost/lab-pic.jpeg'
 ---
 
 Hello, I’m Kelly! This year, I participated in the New Visions - Life Sciences program through the Tompkins-Seneca-Tioga Boards of Cooperative Education Services (TST BOCES) and Cornell University. New Visions gave me the opportunity to explore ecology and conservation through immersion in the Cornell research environment. I connected with research groups spanning topical areas from manure management to forest spatial ecology, before joining the Schmidt Aquatic Microbiology Lab as an intern.
