@@ -9,6 +9,12 @@ For an updated list, please check out [Mar's google scholar page](https://schola
 
 ***
 
+Ray, N.E., **Aredas, S.,** Canino, A, Cardoso, S., Holgerson, M., Theus, M., Grodsky, S., and **M.L. Schmidt.** [Higher methanotroph abundance and bottom-water methane in ponds with floating photovoltaic arrays](https://doi.org/10.1101/2025.07.24.666521). *bioRxiv*: https://doi.org/10.1101/2025.07.24.666521. 
+
+<div style="text-align:center"> 
+	<a href="https://github.com/MarschmiLab/Ray_LO_Letters_FPV_Methane" class="button button--small">Code for Ray et al, bioRxiv</a>
+</div>
+<br>
 
 **Pendleton, A.R.** and **M.L. Schmidt**. [Interpreting UniFrac with Absolute Abundance: A Conceptual and Practical Guide](https://doi.org/10.1101/2025.07.18.665540). *bioRxiv*: https://doi.org/10.1101/2025.07.18.665540. 
 
